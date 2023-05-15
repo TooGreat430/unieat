@@ -1,0 +1,14 @@
+Akun yang dapat digunakan:
+Note : password tenant dan admin saya masukkan manual jadi belum ada validasi dan enkripsi
+
+Customer:
+id: ekkho jamalika
+password: 123456789
+
+Tenant:
+id: dummyseller
+password: 12345
+
+Admin:
+id: Darma
+password: 12345
